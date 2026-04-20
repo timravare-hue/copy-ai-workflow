@@ -15,7 +15,7 @@ This skill closes the gap. Transcript in, verified working skill out.
 
 ## How it works
 
-1. You paste a transcript (or drop a URL, if the caption is public)
+1. You paste a transcript 
 2. The skill extracts the tools, connections, and output the video describes
 3. It checks every claim against the real docs (does this tool exist, is the feature current, what does it actually cost, what do you need to have set up)
 4. You get a verdict: ready to build, works with small changes, or not a fit
