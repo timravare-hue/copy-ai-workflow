@@ -24,9 +24,9 @@ This skill closes the gap. Transcript in, verified working skill out.
 
 ## Install
 
-\`\`\`bash
+```
 git clone https://github.com/timravare-hue/copy-ai-workflow.git ~/.claude/skills/copy-ai-workflow
-\`\`\`
+```
 
 Restart Claude Code. That's it.
 
@@ -34,15 +34,15 @@ Restart Claude Code. That's it.
 
 Open a Claude Code session. Paste any AI workflow transcript and say:
 
-\`\`\`
+```
 turn this into a skill
-\`\`\`
+```
 
 Or:
 
-\`\`\`
+```
 copy this workflow
-\`\`\`
+```
 
 The skill should fire, pull out the workflow, run verification, and ask you to approve before saving the new skill.
 
